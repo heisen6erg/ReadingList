@@ -28,7 +28,7 @@ Book.create!([{
 		If you're looking to create more enriching web experiences, then this is the book for you.",
 	amazon_id: "1118531647",
 	rating: 5,
-	finished_on: 4.days.ago 		
+	finished_on: 2.days.ago 		
 	},
 	{
 	title: "Windows 8.1 For Dummies Book ",
